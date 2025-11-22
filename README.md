@@ -1,6 +1,6 @@
 # Sistema de Microservicios
 
-Este repositorio contiene la documentación general y enlaces a los microservicios.
+Este repositorio contiene la documentación general y enlaces a los microservicios para el curso - Microservicios Spring Boot 3, Eureka, Gateway, LoadBalancer, Resilience4J, Rest, OAuth 2.1, Docker, AWS EC2  → https://www.udemy.com/course-dashboard-redirect/?course_id=2376688.
 
 ## Microservicios
 - msvc-items → https://github.com/oscarcferrr/msvc-items
@@ -10,6 +10,4 @@ Este repositorio contiene la documentación general y enlaces a los microservici
 - config-server → https://github.com/oscarcferrr/config-server
 - config  → https://github.com/oscarcferrr/msvc-items-config
 
-# Proyectos usados para el curso de UDEMY 
-
-- Microservicios Spring Boot 3, Eureka, Gateway, LoadBalancer, Resilience4J, Rest, OAuth 2.1, Docker, AWS EC2  → https://www.udemy.com/course-dashboard-redirect/?course_id=2376688
+:construction: Proyecto en construcción :construction:
