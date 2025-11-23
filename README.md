@@ -2,7 +2,7 @@
 
 Este repositorio contiene la documentación general y enlaces a los microservicios para el curso - Microservicios Spring Boot 3, Eureka, Gateway, LoadBalancer, Resilience4J, Rest, OAuth 2.1, Docker, AWS EC2  → https://www.udemy.com/course-dashboard-redirect/?course_id=2376688.
 
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/bd0f7e50-e374-4e47-9888-91dd796fe710" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/bd0f7e50-e374-4e47-9888-91dd796fe710" />
 
 
 ## Microservicios
