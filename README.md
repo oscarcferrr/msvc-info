@@ -12,5 +12,6 @@ Este repositorio contiene la documentación general y enlaces a los microservici
 - msvc-gateway-server → https://github.com/oscarcferrr/msvc-gateway-server
 - config-server → https://github.com/oscarcferrr/config-server
 - config  → https://github.com/oscarcferrr/msvc-items-config
+- libs-msvc-commons → https://github.com/oscarcferrr/libs-msvc-commns
 
 :construction: Proyecto en construcción :construction:
