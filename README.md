@@ -13,7 +13,7 @@ Este proyecto utiliza el siguiente *stack* tecnológico para construir la arquit
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Framework Principal** | **Spring Boot 3** (Java) |
+| **Framework Principal** | **Spring Boot 4** (Java) |
 | **Descubrimiento** | **Eureka** Server & Client |
 | **API Gateway** | **Spring Cloud Gateway** |
 | **Configuración** | **Spring Cloud Config** Server |
