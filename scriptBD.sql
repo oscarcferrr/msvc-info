@@ -42,6 +42,8 @@ CREATE TABLE users_roles (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
+insert into roles (name)  values('ROLE_ADMIN');
+insert into roles (name)  values('ROLE_USER');
 
 
 
