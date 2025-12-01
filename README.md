@@ -36,6 +36,8 @@ A continuación, se listan todos los repositorios que componen la arquitectura:
 * **`config`** (Configuración Central) → [Repositorio en GitHub](https://github.com/oscarcferrr/msvc-items-config)
 * **`libs-msvc-commons`** (Librerías Comunes) → [Repositorio en GitHub](https://github.com/oscarcferrr/libs-msvc-commns)
 * **`msvc-users`** → [Repositorio en GitHub](https://github.com/oscarcferrr/msvc-users)
+* **`msvc-oauth`** → [Repositorio en GitHub](https://github.com/oscarcferrr/msvc-oauth) 
+
 
 ---
 
