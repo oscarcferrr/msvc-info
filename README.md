@@ -43,7 +43,7 @@ A continuación, se listan todos los repositorios que componen la arquitectura:
 
 Los microservicios **`msvc-products`** y **`msvc-users`** requieren una conexión a una base de datos **MySQL**.
 
-* El *script* para la creación inicial de las tablas se encuentra en el archivo: **`scriptDB.sql`** dentro de este mismo repositorio.
+* El *script* para la creación inicial de las tablas se encuentra en el archivo: **`scriptDB.sql`** dentro de este repositorio.
 
 ---
 
